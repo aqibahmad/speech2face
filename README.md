@@ -1,9 +1,10 @@
-# speech2face [work in development]
+# speech2face 
+
 speech recognition based on facial images
 
 The project consists of 2 major models:
-1) Sound to FaceVector
-2) FaceVector to Image
+1) Sound to FaceVector: converts soundwave into a facial recognition vector
+2) FaceVector to Image: converts the above mentioned vector to an image
 
 Current implementation consists of FaceVector to Image model
 
