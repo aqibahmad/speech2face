@@ -1,14 +1,14 @@
 # Speech2Face 
 
-FYP Project for Spring 2020 at FAST-NUCES, Islamabad
-Aqib Ahmad, Taimoor Aftab, Syed Haider Bokhari, Dr. Omer Ishaq
+### FYP Project for Spring 2020 at FAST-NUCES, Islamabad
+#### Aqib Ahmad, Taimoor Aftab, Syed Haider Bokhari, Dr. Omer Ishaq
 
 An implemention of the following papers:
-1) Speech2Face: Learning the Face Behind a Voice 
+> 1) Speech2Face: Learning the Face Behind a Voice 
    (Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik)
    CVPR 2019
 
-2) Synthesizing Normalized Faces from Facial Identity Features
+> 2) Synthesizing Normalized Faces from Facial Identity Features
    (Forrester Cole, David Belanger, Dilip Krishnan, Aaron Sarna, Inbar Mosseri, William T. Freeman)
    CVPR 2017
 
