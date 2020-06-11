@@ -1,7 +1,10 @@
 # Speech2Face 
 
-### FYP Project for Spring 2020 at FAST-NUCES, Islamabad
 ### *Aqib Ahmad, Taimoor Aftab, Syed Haider Bokhari, Dr. Omer Ishaq*
+#### FYP Project for Spring 2020 at FAST-NUCES, Islamabad
+
+---
+
 
 An implemention of the following papers:
 > 1) Speech2Face: Learning the Face Behind a Voice 
@@ -19,6 +22,8 @@ The repository includes the following code:
 3) Flask Server to deploy all these models 
 4) Links to datasets for Facial Decoder and Voice Encoder
 5) Python Notebooks for training the Facial Deocoder and Voice Encoder models
+
+
 
 
 speech recognition based on facial images
