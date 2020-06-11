@@ -1,7 +1,7 @@
 # Speech2Face 
 
 ### FYP Project for Spring 2020 at FAST-NUCES, Islamabad
-#### Aqib Ahmad, Taimoor Aftab, Syed Haider Bokhari, Dr. Omer Ishaq
+### *Aqib Ahmad, Taimoor Aftab, Syed Haider Bokhari, Dr. Omer Ishaq*
 
 An implemention of the following papers:
 > 1) Speech2Face: Learning the Face Behind a Voice 
